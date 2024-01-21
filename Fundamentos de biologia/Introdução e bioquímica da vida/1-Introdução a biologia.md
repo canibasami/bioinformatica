@@ -27,11 +27,13 @@ Fonte: https://revistapesquisa.fapesp.br/o-neandertal-em-cada-um-de-nos/
     - Biologia celular;
 
 ## Teste 3: Nível de diversidade da vida
-
+```mermaid
 flowchart LR
-    A["Organismo"] -->B
-    B["Célula"]-->C
+
+    A["Organismo"]-->B;
+    B["Célula"]-->C;
     C["Organela"]-->D["Molécula"];
+```
 
 ## Teste 4
 
