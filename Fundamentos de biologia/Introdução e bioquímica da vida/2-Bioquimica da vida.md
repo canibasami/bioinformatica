@@ -93,12 +93,10 @@ Carboidratos são considerados `polares` e `hidrofílicos`.
 ![Ligações](https://courses.edx.org/assets/courseware/v1/23e4fa4f4c4cb66e3288bb20c343a268/asset-v1:MITx+7.00x+3T2023+type@asset+block/bond_types.png)
 
 
-
 # Deep dive: Estruturas químicas
 
 1) Carbonos nos cantos
 2) Hidrogênios ligados aos carbonos de maneira implicita
-
 
 Fórmula química da aspirina: C~9~H~8~O~4~
 
